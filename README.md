@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rawlingswares
+- 👋 Hi, I’m Rawlings
 - 👀 I’m an web, app developer
 - 🌱 I'm an expert in java, PHP, css, html
 - 📫 you can contact on phone+2348163051340 or email me @ rawlingswares@gmail.com
